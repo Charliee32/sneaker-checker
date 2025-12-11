@@ -44,4 +44,4 @@ while datetime.datetime.now() < end_date:
     print(">> Waiting 30 minutes before checking again...\n")
     time.sleep(1800)  # 1800 seconds = 30 minutes
 
-print(">> Happy Birthday, Chuck! Script is now ending.")
+print(">>
